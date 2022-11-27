@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Song Guesser</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap" rel="stylesheet">
+
+    <!-- My CSS -->
+    <link rel="stylesheet" href="styles/style.css">
+
+    <!-- Favicon  -->
+    <link rel="icon" type="image/x-icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Noun_project_-_Music_notes.svg/2048px-Noun_project_-_Music_notes.svg.png">
+</head>
+<body>
+    <div class="game ">
+        <h1 class="game-title" id="header">Lyrical Genius</h1>
+        <div id="level-select" class="game-container">
+            <p class="instructions-title">Choose Difficulty Level</p>
+            <div class="difficulty-container row">
+                <div class="col">
+                    <button id="easy-option" class="difficulty-btn  btn">Easy</button>
+                    <p>Guess the next 3 words</p>
+                </div>
+                <div class="col">
+                    <button id="medium-option" class="difficulty-btn  btn">Medium</button>
+                    <p>Guess the next 5 words</p>
+                </div>
+                <div class="col">
+                    <button id="hard-option" class="difficulty-btn  btn">Hard</button>
+                    <p>Guess the next 8 words</p>
+                </div>
+            </div>
+        </div>
+        <div id="title-screen" class="game-container">
+            <p class="instructions-title">Game Instructions</p>
+            <div class="game-instructions">Guess the lyric is a game that will put your music knowledge to the test! After choosing a category you will then be 
+                given a lyric from a song and its your job to fill in what comes next. Can you supply the requited lyrics before the time runs out!
+            </div>
+            <div class="buttons-container">
+                <div class="row">
+                    <button id="pop-option" class="option-btn  btn">Pop</button>
+                    <button id="rock-option" class="option-btn  btn">Rock</button>
+                </div>
+                <div class="row">
+                    <button id="country-option" class="option-btn  btn">Country</button>
+                    <button id="all-option" class="option-btn  btn">All</button>
+                </div>
+            </div>
+        </div>
+        <div id="game-screen" class="game-container">
+            <div class="game-header">
+                <div class="lives-stats flex">
+                    <div class="lives-container">
+                        <img src="images/life.webp" alt="game-life" class="game-life">
+                        <img src="images/life.webp" alt="game-life" class="game-life">
+                        <img src="images/life.webp" alt="game-life" class="game-life">
+                        <img src="images/life.webp" alt="game-life" class="game-life">
+                        <img src="images/life.webp" alt="game-life" class="game-life">
+                    </div>
+                    <h1 class="game-genre" id="header-title">Game Title</h1>
+                    <div class="score-container ">
+                        <p class="game-score"><span id="score">0</span> Points</p>
+                    </div>
+                </div>
+            </div>
+            <div class="song-details flex">
+                <p class="song-info"><span id="artist"></span>: <span id="song"></span></p>
+                <p id="time-p">Time: <span id="timer">30</span></p>
+            </div>
+            <div class="game-arena">
+                <div id="lyric-info">
+                    <p class="lyric-title">Lyric:</p>
+                    <p id="lyric">Lorem ipsum dolor sit amet. <span id="missing-word">Test</span></p>
+                    <p class="count-p">Guess the next <span id="word-count">5</span> words</p>
+                </div>
+                <div id="answer-info">
+                    <p >Your Guess: <span id="guess-reveal"></span></p>
+                    <p id="">Answer: <span id="answer-reveal"></span></p>
+                </div>
+                <p id="player-answer"></p>
+                <form id="guess-form" data-element="game">
+                    <input type="text" name="player-guess" id="player-guess" placeholder="Enter guess" aria-label="answer">
+                    <input type="submit" value="Answer" class="" id="answer-btn">
+                </form>
+            </div>
+            <div class="iframe-container hidden" data-element="game">
+                <iframe id="spotify-player" width="300" height="300"
+                  allow="encrypted-media">
+                </iframe>
+            </div>
+        </div>
+
+        <div id="game-over" class="game-container">
+            <h1 id="game-state">Game Over</h1>
+            <p class="game-score">Your Score Was <span id="score">0</span> Points</p>
+            <input type="submit" value="Play Again?" class="" id="answer-btn">
+        </div>
+    </div>
+
+    <!-- <script src="app.js"></script> -->
+    <script src="scripts/stage_functions.js"></script>
+    <script src="scripts/app.js"></script>
+</body>
+</html>

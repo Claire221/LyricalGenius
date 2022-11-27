@@ -1,0 +1,763 @@
+[
+    {
+        "artist": "A-ha",
+        "title": "Take On Me",
+        "release_year": "1985",
+        "genre": "Pop",
+        "lyric" : "We're talking away I don't know what", 
+        "answer": "Im to say Ill say it anyway Todays", 
+        "id": "2WfaOiMkCvy7F5fcp2zZ8L"
+    },
+    {
+        "artist": "Cyndi Lauper",
+        "title": "Girls Just Want To Have Fun",
+        "release_year": "1983",
+        "lyric": "I come home, in the mornin' light My mother says, When you gonna live your life right?",
+        "answer" : "Oh momma dear were not the fortunate ones",
+        "genre": "Pop",
+        "id": "4y1LsJpmMti1PfRQV9AWWe"
+    },
+    {
+        "artist": "Tina Turner",
+        "title": "What's Love Got to Do with It",
+        "release_year": "1984",
+        "lyric": "You must understand, though the touch of your hand Makes my pulse react",
+        "answer" : "That its only the thrill of boy meeting girl",
+        "genre": "Pop",
+        "id": "4kOfxxnW1ukZdsNbCKY9br"
+    },
+    {
+        "artist": "Eurythmics",
+        "title": "Sweet Dreams",
+        "release_year": "1983",
+        "lyric": "Some of them want to use you Some of them want to get used by you",
+        "answer" : "Some of them want to abuse you Some of them want to be abused",
+        "genre": "Pop",
+        "id": "6zIfdCmmhPCX0cMquBsC37"
+    },
+    {
+        "artist": "Salt N Pepa",
+        "title": "Push It",
+        "lyric": "Salt-n-Pepa's here, and we're in effect Want you to push it back",
+        "answer" : "Cooling by day then at night working up a sweat",
+        "release_year": "1986",
+        "genre": "Pop",
+        "id": "6sT9MWlJManry3EQwf4V80"
+    },
+    {
+        "artist": "TLC",
+        "title": "Waterfalls",
+        "lyric": "I seen a rainbow yesterday But too many storms have come and gone",
+        "answer" : "Leavin a trace of not on God given ray",
+        "release_year": "1994",
+        "genre": "Pop",
+        "id": "6qspW4YKycviDFjHBOaqUY"
+    },
+    {
+        "artist": "Backstreet Boys",
+        "title": "I Want It That Way",
+        "lyric": "You are my fire, The one desire",
+        "answer" : "Believe when I say I want it that way",
+        "release_year": "1999",
+        "genre": "Pop",
+        "id": "47BBI51FKFwOMlIiX6m8ya"
+    },
+    {
+        "artist": "Destinys Child",
+        "title": "Say My Name",
+        "lyric": "Any other day I would call and you would say",
+        "answer" : "Baby hows your day But today, it aint the same",
+        "release_year": "1999",
+        "genre": "Pop",
+        "id": "7H6ev70Weq6DdpZyyTmUXk"
+    },
+    {
+        "artist": "New Radicals",
+        "title": "You Get What You Give",
+        "lyric": "You've got the music in you, Don't let go",
+        "answer" : "Youve got the music in you One dance left",
+        "release_year": "1998",
+        "genre": "Pop",
+        "id": "1Cwsd5xI8CajJz795oy4XF"
+    },
+    {
+        "artist": "Avril Lavigne",
+        "title": "Sk8er Boi",
+        "lyric": "He was a boy, She was a girl, Can I make it any more obvious?",
+        "answer" : "He was a punk She did ballet What more can I say",
+        "release_year": "2002",
+        "genre": "Pop",
+        "id": "00Mb3DuaIH1kjrwOku9CGU"
+    },
+    {
+        "artist": "Evanescence",
+        "title": "Bring Me to Life",
+        "lyric": "Bring me to life I've been living a lie",
+        "answer" : "Theres nothing inside Bring me to life Frozen inside without your touch",
+        "release_year": "2003",
+        "genre": "Pop",
+        "id": "0COqiPhxzoWICwFCS4eZcp"
+    },
+    {
+        "artist": "Fountains of Wayne",
+        "title": "Stacy's Mom",
+        "lyric": "Stacy's mom has got it goin' on, She's all I want",
+        "answer" : "And I've waited for so long Stacy can't you see",
+        "release_year": "2003",
+        "genre": "Pop",
+        "id": "27L8sESb3KR79asDUBu8nW"
+    },
+    {
+        "artist": "Kelly Clarkson",
+        "title": "Breakaway",
+        "lyric": "Trying hard to reach out, But when I tried to speak out",
+        "answer" : "Felt like no one could hear me Wanted to belong here",
+        "release_year": "2004",
+        "genre": "Pop",
+        "id": "61Qhe2mHSLhUE04QeK4lkD"
+    },
+    {
+        "artist": "Keane",
+        "title": "Somewhere Only We Know",
+        "lyric": "I walked across an empty land I knew the pathway like the back of my hand",
+        "answer" : "I felt the earth beneath my feet Sat by the river and it made me complete",
+        "release_year": "2004",
+        "genre": "Pop",
+        "id": "0ll8uFnc0nANY35E0Lfxvg"
+    },
+    {
+        "artist": "Rihanna",
+        "title": "Pon de Replay",
+        "lyric": "It goes one by one, even two by two Everybody on the floor, let me show you how we do",
+        "answer" : "Lets go dip it low then you bring it up slow",
+        "release_year": "2005",
+        "genre": "Pop",
+        "id": "4TsmezEQVSZNNPv5RJ65Ov"
+    },
+    {
+        "artist": "The Pussycat Dolls",
+        "title": "Don't Cha",
+        "lyric": "Don't cha wish your girlfriend was hot like me?",
+        "answer" : "Dont cha wish your girlfriend was a freak like me",
+        "release_year": "2005",
+        "genre": "Pop",
+        "id": "1gZ7i4qxXkHZb1r6eioaAP"
+    },
+    {
+        "artist": "Icona Pop",
+        "title": "I Love It",
+        "lyric": "I got this feeling on the summer day when you were gon",
+        "answer" : "I crashed my car into the bridge I watched I let it burn",
+        "release_year": "2012",
+        "genre": "Pop",
+        "id": "1rhXXcrYp9RRObN5gsmqCU"
+    },
+    {
+        "artist": "Miley Cyrus",
+        "title": "Wrecking Ball",
+        "lyric": "We clawed, we chained, our hearts in vain We jumped, never asking why",
+        "answer" : "We kissed I fell under your spell A love no one could deny",
+        "release_year": "2013",
+        "genre": "Pop",
+        "id": "2vwlzO0Qp8kfEtzTsCXfyE"
+    },
+    {
+        "artist": "Demi Lovato",
+        "title": "Heart Attack",
+        "lyric": "You make me glow But I cover up, won't let it show",
+        "answer" : "So Im putting my defenses up Cause I dont wanna fall in love",
+        "release_year": "2013",
+        "genre": "Pop",
+        "id": "4v0hWD4N6qefyFrmSGLjTV"
+    },
+    {
+        "artist": "Sia",
+        "title": "Chandelier",
+        "lyric": "From the chandelier I'm gonna live like tomorrow doesn't exist",
+        "answer" : "Like it doesnt exist Im gonna fly like a bird through the night",
+        "release_year": "2014",
+        "genre": "Pop",
+        "id": "4VrWlk8IQxevMvERoX08iC"
+    },
+    {
+        "artist": "Ariana Grande",
+        "title": "Side to Side",
+        "lyric": "I'm talkin' to ya, See you standing over there with your body",
+        "answer" : "Feeling like I wanna rock with your body And we dont gotta think bout nothin ",
+        "release_year": "2016",
+        "genre": "Pop",
+        "id": "1pKeFVVUOPjFsOABub0OaV"
+    },
+    {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "lyric": "One: Don't pick up the phone You know he's only callin' 'cause he's drunk and alone",
+        "answer" : "Two Dont let him in youll have to kick him out again",
+        "release_year": "2017",
+        "genre": "Pop",
+        "id": "2ekn2ttSfGqwhhate0LSR0"
+    },
+    {
+        "artist": "Dua Lipa",
+        "title": "One Kiss",
+        "lyric": "One kiss is all it takes Fallin' in love with me",
+        "answer" : "Possibilities I look like all you need",
+        "release_year": "2017",
+        "genre": "Pop",
+        "id": "2ekn2ttSfGqwhhate0LSR0"
+    },
+    {
+        "artist": "Beyoncee",
+        "title": "Love on Top",
+        "lyric": "Baby, it's you, You're the one I love, You're the one I need",
+        "answer" : "Youre the only one I see Come on baby it's you",
+        "release_year": "2011",
+        "genre": "Pop",
+        "id": "1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+        "artist": "Billie Eilish",
+        "title": "Bad Guy",
+        "lyric": "White shirt now red, my bloody nose Sleepin', you're on your tippy toes",
+        "answer" : "Creepin around like no one knows Think youre so criminal",
+        "release_year": "2019",
+        "genre": "Pop",
+        "id": "2Fxmhks0bxGSBdJ92vM42m"
+    },
+    {
+        "artist": "Cher",
+        "title": "Believe",
+        "lyric": "No matter how hard I try You keep pushing me aside ",
+        "answer" : "And I cant break through Theres no talking to you",
+        "release_year": "1998",
+        "genre": "Pop",
+        "id": "2goLsvvODILDzeeiT4dAoR"
+    },
+    {
+        "artist": "Earth, Wind & Fire",
+        "title": "September",
+        "lyric": "Do you remember, The 21st night of September?",
+        "answer" : "Love was changin the minds of pretenders While chasin the clouds away",
+        "release_year": "1978",
+        "genre": "Pop",
+        "id": "2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+        "artist": "Sam Smith",
+        "title": "Forgive Myself",
+        "lyric": "Do you think of me when you're in California alone? It's a lonely place at the best of times, Lord knows",
+        "answer" : "I wont lie to you I could have given you more But life got fast good things dont last anymore",
+        "release_year": "2020",
+        "genre": "Pop",
+        "id": "5wHRQRy339ghP31x0hUWcQ"
+    },
+    {
+        "artist": "Olivia Rodrigo",
+        "title": "Good 4 U",
+        "lyric": "Well, good for you, you look happy and healthy Not me, if you ever cared to ask",
+        "answer" : "Good for you youre doing great out there without me baby God I wish that I could do that",
+        "release_year": "2021",
+        "genre": "Pop",
+        "id": "4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+        "artist": "Lizzo",
+        "title": "About Damn Time",
+        "lyric": "In a minute I'ma need a sentimental, Man or woman to pump me up",
+        "answer" : "Feeling fussy walkin in my Balenci-ussys Tryna bring out the fabulous",
+        "release_year": "2022",
+        "genre": "Pop",
+        "id": "1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+        "artist": "Sam Smith",
+        "title": "Unholy",
+        "lyric": "A lucky, lucky girl, She got married to a boy like you",
+        "answer" : "Shed kick you out if she ever ever knew Bout all the you tell me that you do",
+        "release_year": "2022",
+        "genre": "Pop",
+        "id": "3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+        "artist": "Meghan Trainor",
+        "title": "Made You Look",
+        "lyric": "I could have my Gucci on I could wear my Louis Vuitton",
+        "answer" : "But even with nothin on Bet I made you look",
+        "release_year": "2022",
+        "genre": "Pop",
+        "id": "0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+        "artist": "Lil Nas X",
+        "title": "Old Town Road",
+        "lyric": "Yeah, I'm gonna take my horse to the old town road I'm gonna ride 'til I can't no more",
+        "answer" : "Im gonna take my horse to the old town road",
+        "release_year": "2019",
+        "genre": "Pop",
+        "id": "0F7FA14euOIX8KcbEturGH"
+    },
+    {
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
+        "lyric": "Now the day bleeds into nightfall and you're not here",
+        "answer" : "To get me through it all I let my guard down",
+        "release_year": "2019",
+        "genre": "Pop",
+        "id": "7qEHsqek33rTcFNT9PFqLf"
+    },
+    {
+        "artist": "Led Zeppelin",
+        "title": "Stairway to Heaven",
+        "release_year": "1971",
+        "genre": "Rock",
+        "id": "5CQ30WqJwcep0pYcV4AMNc"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "title": "Sweet Child O'Mine",
+        "release_year": "1987",
+        "genre": "Rock",
+        "id": "7o2CTH4ctstm8TNelqjb51"
+    },
+    {
+        "artist": "AC/DC",
+        "title": "Back In Black",
+        "release_year": "1980",
+        "genre": "Rock",
+        "id": "08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+        "artist": "Black Sabbath",
+        "title": "Paranoid",
+        "release_year": "1970",
+        "genre": "Rock",
+        "id": "1Y373MqadDRtclJNdnUXVc"
+    },
+    {
+        "artist": "Motorhead",
+        "title": "Ace of Spades",
+        "release_year": "1980",
+        "genre": "Rock",
+        "id": "6EPRKhUOdiFSQwGBRBbvsZ"
+    },
+    {
+        "artist": "Meat Loaf",
+        "title": "Bat Out of Hell",
+        "release_year": "1977",
+        "genre": "Rock",
+        "id": "3mCeeoBvTTpg8Xy2Wuvirw"
+    },
+    {
+        "artist": "Nirvana",
+        "title": "Smells Like Teen Spirit",
+        "release_year": "1991",
+        "genre": "Rock",
+        "id": "5ghIJDpPoe3CfHMGu71E6T"
+    },
+    {
+        "artist": "Nirvana",
+        "title": "Smells Like Teen Spirit",
+        "release_year": "1991",
+        "genre": "Rock",
+        "id": "5ghIJDpPoe3CfHMGu71E6T"
+    },
+    {
+        "artist": "The Rolling Stones",
+        "title": "Satisfaction",
+        "release_year": "1965",
+        "genre": "Rock",
+        "id": "1b6AW6uDrtrUN0Y6GJR45j"
+    },
+    {
+        "artist": "AC/DC",
+        "title": "Thunderstruck",
+        "release_year": "1990",
+        "genre": "Rock",
+        "id": "57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+        "artist": "Bon Jovi",
+        "title": "Livin' on a Prayer",
+        "release_year": "1986",
+        "genre": "Rock",
+        "id": "37ZJ0p5Jm13JPevGcx4SkF"
+    },
+    {
+        "artist": "Metallica",
+        "title": "Master of Puppets",
+        "release_year": "1986",
+        "genre": "Rock",
+        "id": "799XxzSlWNYkuWJxUbuGnF"
+    },
+    {
+        "artist": "Alice Cooper",
+        "title": "School's Out",
+        "release_year": "1972",
+        "genre": "Rock",
+        "id": "5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+        "artist": "Whitesnake",
+        "title": "Here I Go Again",
+        "release_year": "1982",
+        "genre": "Rock",
+        "id": "29pzjF6ZkzcW3ofgOVbF0t"
+    },
+    {
+        "artist": "AC/DC",
+        "title": "Shoot to Thrill",
+        "release_year": "1980",
+        "genre": "Rock",
+        "id": "0C80GCp0mMuBzLf3EAXqxv"
+    },
+    {
+        "artist": "The Doors",
+        "title": "Light My Fire",
+        "release_year": "1967",
+        "genre": "Rock",
+        "id": "5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+        "artist": "Stereophonics",
+        "title": "Dakota",
+        "release_year": "2005",
+        "genre": "Rock",
+        "id": "3KbohvHfv4uHONJJy2p8NX"
+    },
+    {
+        "artist": "Weezer",
+        "title": "Buddy Holly",
+        "release_year": "1994",
+        "genre": "Rock",
+        "id": "3mwvKOyMmG77zZRunnxp9E"
+    },
+    {
+        "artist": "The Rolling Stones",
+        "title": "Miss You",
+        "release_year": "1978",
+        "genre": "Rock",
+        "id": "4TXvJz4TmRI9Bzy4VWNUjl"
+    },
+    {
+        "artist": "Joan Jett and the Blackhearts",
+        "title": "I Love Rock N Roll",
+        "release_year": "1981",
+        "genre": "Rock",
+        "id": "5qtLQt2iDjZyDpvpuSqeYi"
+    },
+    {
+        "artist": "The Cure",
+        "title": "Just Like Heaven",
+        "release_year": "1987",
+        "genre": "Rock",
+        "id": "76GlO5H5RT6g7y0gev86Nk"
+    },
+    {
+        "artist": "Papa Roach",
+        "title": "Last Resort",
+        "release_year": "2000",
+        "genre": "Rock",
+        "id": "5W8YXBz9MTIDyrpYaCg2Ky"
+    },
+    {
+        "artist": "3 Doors Down",
+        "title": "Kryptonite",
+        "release_year": "2000",
+        "genre": "Rock",
+        "id": "6ZOBP3NvffbU4SZcrnt1k6"
+    },
+    {
+        "artist": "Linkin Park",
+        "title": "In the End",
+        "release_year": "2000",
+        "genre": "Rock",
+        "id": "60a0Rd6pjrkxjPbaKzXjfq"
+    },
+    {
+        "artist": "Foo Fighters",
+        "title": "Best of You",
+        "release_year": "2005",
+        "genre": "Rock",
+        "id": "5FZxsHWIvUsmSK1IAvm2pp"
+    },
+    {
+        "artist": "Sugar, Were Goin Down",
+        "title": "Fall Out Boy",
+        "release_year": "2005",
+        "genre": "Rock",
+        "id": "2TfSHkHiFO4gRztVIkggkE"
+    },
+    {
+        "artist": "Song by Weezer",
+        "title": "Beverly Hills",
+        "release_year": "2005",
+        "genre": "Rock",
+        "id": "1yKu2MhpwzDXXH2tzG6xoa"
+    },
+    {
+        "artist": "Gorillaz",
+        "title": "DARE",
+        "release_year": "2005",
+        "genre": "Rock",
+        "id": "4Hff1IjRbLGeLgFgxvHflk"
+    },
+    {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Can't Stop",
+        "release_year": "2002",
+        "genre": "Rock",
+        "id": "3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
+        "artist": "Finger Eleven",
+        "title": "Paralyzer",
+        "release_year": "2007",
+        "genre": "Rock",
+        "id": "28IEbk5a7twNTbUEvWslUb"
+    },
+    {
+        "artist": "Linkin Park",
+        "title": "Burn It Down",
+        "release_year": "2012",
+        "genre": "Rock",
+        "id": "7oVEtyuv9NBmnytsCIsY5I"
+    },
+    {
+        "artist": "Simple Plan",
+        "title": "Vacation",
+        "release_year": "2002",
+        "genre": "Rock",
+        "id": "3fYytr3RxNUXyFesUVPHZA"
+    },
+    {
+        "artist": "Nickelback",
+        "title": "Rockstar",
+        "release_year": "2005",
+        "genre": "Rock",
+        "id": "3RlsVPIIs5KFhLFhxZ4iDF"
+    },
+    {
+        "artist": "LeAnn Rimes",
+        "title": "How Do I Live",
+        "release_year": "1997",
+        "genre": "Country",
+        "id": "7BD50ATrF3Vab5FQy7vtK8"
+    },
+    {
+        "artist": "Shania Twain",
+        "title": "Youre Still the One",
+        "release_year": "1997",
+        "genre": "Country",
+        "id": "3I4nZ14GRL7eXwFDjCEEVr"
+    },
+    {
+        "artist": "Keith Urban",
+        "title": "Somebody Like You",
+        "release_year": "2002",
+        "genre": "Country",
+        "id": "0qup7d7G2WffwARHKrqT2x"
+    },
+    {
+        "artist": "Carrie Underwood",
+        "title": "Before He Cheats",
+        "release_year": "2005",
+        "genre": "Country",
+        "id": "0ZUo4YjG4saFnEJhdWp9Bt"
+    },
+    {
+        "artist": "John Denver",
+        "title": "Take Me Home Country Roads",
+        "release_year": "1971",
+        "genre": "Country",
+        "id": "1YYhDizHx7PnDhAhko6cDS"
+    },
+    {
+        "artist": "Chris Stapleton",
+        "title": "Tennessee Whiskey",
+        "release_year": "2015",
+        "genre": "Country",
+        "id": "35BIbrSEyRIvoFDXJZplZI"
+    },
+    {
+        "artist": "Shania Twain",
+        "title": "Man I Feel Like a Woman",
+        "release_year": "1999",
+        "genre": "Country",
+        "id": "6sxptembJVty4sNtcPMAVz"
+    },
+    {
+        "artist": "Dolly Parton and Kenny Rogers",
+        "title": "Islands in the Stream",
+        "release_year": "1983",
+        "genre": "Country",
+        "id": "6dnco8haegnJYtylV26cBq"
+    },
+    {
+        "artist": "Dolly Parton",
+        "title": "Jolene",
+        "release_year": "1974",
+        "genre": "Country",
+        "id": "2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+        "artist": "Tim McGraw",
+        "title": "Live Like You Were Dying",
+        "release_year": "2004",
+        "genre": "Country",
+        "id": "5uaTGZyDMK1iZ9eW1qeBEX"
+    },
+    {
+        "artist": "Lee Ann Womack",
+        "title": "I Hope You Dance",
+        "release_year": "2000",
+        "genre": "Country",
+        "id": "65B1tEOv5W294uCKbmEcFV"
+    },
+    {
+        "artist": "Tammy Wynette",
+        "title": "Stand By Your Ma",
+        "release_year": "1980",
+        "genre": "Country",
+        "id": "1m4lP2IzV8Z1oEUYMHMClr"
+    },
+    {
+        "artist": "Willie Nelson",
+        "title": "Blue Eyes Crying in the Rain",
+        "release_year": "1975",
+        "genre": "Country",
+        "id": "2uRVPeQbsEpRQD0DKr1WTo"
+    },
+    {
+        "artist": "Charlie Daniels Band",
+        "title": "Devil Went Down to Georgia",
+        "release_year": "1979",
+        "genre": "Country",
+        "id": "383Xl5QTigwj3QiA3Qc6S7"
+    },
+    {
+        "artist": "Taylor Swift",
+        "title": "Love Story",
+        "release_year": "2008",
+        "genre": "Country",
+        "id": "1D4PL9B8gOg78jiHg3FvBb"
+    },
+    {
+        "artist": "Jordan Davis",
+        "title": "Buy Dirt",
+        "release_year": "2021",
+        "genre": "Country",
+        "id": "69AIpwGNLxr4qS1X5ynx60"
+    },
+    {
+        "artist": "Carly Pearce",
+        "title": "Next Girl",
+        "release_year": "2021",
+        "genre": "Country",
+        "id": "4QpWhd7l2NrmGmfw4qGlpa"
+    },
+    {
+        "artist": "Gabby Barrett",
+        "title": "I Hope",
+        "release_year": "2020",
+        "genre": "Country",
+        "id": "23T0OX7QOiIUFShSzbJ5Uo"
+    },
+    {
+        "artist": "Patsy Cline",
+        "title": "Crazy",
+        "release_year": "1961",
+        "genre": "Country",
+        "id": "5UIq2zbapMbSU7Z2SEq8j0"
+    },
+    {
+        "artist": "Faith Hill",
+        "title": "This Kiss",
+        "release_year": "1998",
+        "genre": "Country",
+        "id": "0TxXEbxn52XsuAhxb6VFZw"
+    },
+    {
+        "artist": "Martina McBride",
+        "title": "This Ones for the Girls",
+        "release_year": "2003",
+        "genre": "Country",
+        "id": "0416borqT1JBOysM3oo0uX"
+    },
+    {
+        "artist": "Lonestar",
+        "title": "Amazed",
+        "release_year": "1999",
+        "genre": "Country",
+        "id": "6qc34bnVOyqGDPni8H5W0U"
+    },
+    {
+        "artist": "Alan Jackson and Jimmy Buffett",
+        "title": "It's Five OClock Somewhere",
+        "release_year": "2003",
+        "genre": "Country",
+        "id": "5oHHMDcVOmPSFrCgdbHPdb"
+    },
+    {
+        "artist": "Reba McEntire",
+        "title": "Fancy",
+        "release_year": "1990",
+        "genre": "Country",
+        "id": "1ecIqo8pOc8S6y3l80iGxd"
+    },
+    {
+        "artist": "Dan + Shay",
+        "title": "Tequila",
+        "release_year": "2018",
+        "genre": "Country",
+        "id": "42fw0rxRO2xbesF6mJfd4Y"
+    },
+    {
+        "artist": "Sam Hunt",
+        "title": "Body Like a Back Road",
+        "release_year": "2020",
+        "genre": "Country",
+        "id": "7mldq42yDuxiUNn08nvzHO"
+    },
+    {
+        "artist": "Toby Keith",
+        "title": "How Do You Like Me Now",
+        "release_year": "1999",
+        "genre": "Country",
+        "id": "7rDcULv8vV16vetBjPJhuE"
+    },
+    {
+        "artist": "Tim McGraw",
+        "title": "I Like It, I Love It",
+        "release_year": "1995",
+        "genre": "Country",
+        "id": "3IvcWWehbBcBR4YZxlGM9R"
+    },
+    {
+        "artist": "Luke Combs",
+        "title": "Hurricane ",
+        "release_year": "2016",
+        "genre": "Country",
+        "id": ""
+    },
+    {
+        "artist": "Eric Ethridge",
+        "title": "If You Met Me First",
+        "release_year": "2018",
+        "genre": "Country",
+        "id": "5BJSIhaHPpnTkAahlmOQ1h"
+    },
+    {
+        "artist": "Florida Georgia Line",
+        "title": "This Is How We Roll",
+        "release_year": "2014",
+        "genre": "Country",
+        "id": "2TR7A4ulH9R1PNwMyd8o8U"
+    },
+    {
+        "artist": "Rascal Flatts",
+        "title": "What Hurts The Most",
+        "release_year": "2006",
+        "genre": "Country",
+        "id": "4bVuIlGQBMWS7vIhcx8Ae4"
+    }
+]

@@ -80,6 +80,27 @@ popGenre.addEventListener("click", function() {
     gameDifficulty()
 })
 
+rockGenre.addEventListener("click", function() {
+    // updates genre to genre player picked
+    genre = "rock"
+    gameDifficulty()
+})
+
+
+countryGenre.addEventListener("click", function() {
+    // updates genre to genre player picked
+    genre = "country"
+    gameDifficulty()
+})
+
+
+allGenres.addEventListener("click", function() {
+    // updates genre to genre player picked
+    genre = null
+    gameDifficulty()
+})
+
+
 
 function gameDifficulty () {
     // Shows and hides relevent screens
@@ -104,6 +125,7 @@ function gameDifficulty () {
 
 // Function to start game
 function startGame() {
+    let results; 
     // Shows and hides relevent screens
     gameLevels.classList.add("hidden")
     titleScreen.classList.add("hidden")
@@ -114,9 +136,14 @@ function startGame() {
     lives = 0
 
     // Filters the songs array to only show songs with the genre the player picked
-    let results = songs.filter((song) => {
-        return song.genre.toLowerCase() === genre;
-    });
+    if (genre != null) {
+        results = songs.filter((song) => {
+            return song.genre.toLowerCase() === genre;
+        });
+    }
+    else {
+        results = songs
+    }
 
     // Filters down the songs to randomly select 15 of them for the game
     let reduceSongs = [] 
@@ -139,7 +166,11 @@ function chooseSong() {
     // answer = null;
 
     // Displays the player chosen genre to them
-    document.getElementById("header-title").innerHTML = `Your Chosen Genre Is ${genre.toUpperCase()}`
+    if (genre) {
+        document.getElementById("header-title").innerHTML = `Your Chosen Genre Is ${genre.toUpperCase()}` 
+    } else {
+        document.getElementById("header-title").innerHTML = `You have selected all songs!`
+    }
     // songs = results
     // Randomly gets a number from the length of the songs array and gets relevent song to assign to chosenSong
     index = Math.floor(Math.random() * songs.length)
@@ -286,3 +317,26 @@ function endGame() {
         }, 3000)
     }
 }
+
+
+
+// // API Test
+// const addSongToIframe = () => {
+//     document.getElementById(
+//       "spotify-player"
+//     ).src = `https://open.spotify.com/embed/track/${currentSong.id}`;
+//     noCheating();
+// };
+
+// let checkSong = () => {
+//     // currentSong.id = 3
+//     fetch(`https://kareoke.p.rapidapi.com/v1/song/spotify?id=${currentSong.id}`)
+//       .then((jsonData) => jsonData.json())
+//       .then((data) => songExists(data));
+// };
+
+// const songExists = (song) => {
+//     if (song.msg === `We couldn't find a data with this id`) {
+//       getSong();
+//     }
+// };

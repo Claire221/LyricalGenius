@@ -160,8 +160,8 @@ function startGame() {
 // Function to randomly chose a song
 function chooseSong() {
     // Updates the timer to 30s for each new song and recalls the function
-    // time = 30
-    // timer()
+    time = 30
+    timer()
     guess = null;
     // answer = null;
 

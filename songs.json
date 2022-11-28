@@ -4,16 +4,16 @@
         "title": "Take On Me",
         "release_year": "1985",
         "genre": "Pop",
-        "lyric" : "We're talking away I don't know what", 
-        "answer": "Im to say Ill say it anyway Todays", 
+        "lyric" : "We're talking away I don't know what I'm to say I'll say it anyway", 
+        "answer": "Todays another day to find you Shying away Ill be coming for your love okay", 
         "id": "2WfaOiMkCvy7F5fcp2zZ8L"
     },
     {
         "artist": "Cyndi Lauper",
         "title": "Girls Just Want To Have Fun",
         "release_year": "1983",
-        "lyric": "I come home, in the mornin' light My mother says, When you gonna live your life right?",
-        "answer" : "Oh momma dear were not the fortunate ones",
+        "lyric": "I come home, in the mornin' light My mother says, When you gonna live your life right",
+        "answer" : "Oh momma dear we're not the fortunate ones and girls they wanna have fun",
         "genre": "Pop",
         "id": "4y1LsJpmMti1PfRQV9AWWe"
     },
@@ -30,8 +30,8 @@
         "artist": "Eurythmics",
         "title": "Sweet Dreams",
         "release_year": "1983",
-        "lyric": "Some of them want to use you Some of them want to get used by you",
-        "answer" : "Some of them want to abuse you Some of them want to be abused",
+        "lyric": "Sweet dreams are made of this who am I to disagree I travel the world and the seven seas",
+        "answer" : "Everybodys looking for something some of them want to use you",
         "genre": "Pop",
         "id": "6zIfdCmmhPCX0cMquBsC37"
     },
@@ -47,8 +47,8 @@
     {
         "artist": "TLC",
         "title": "Waterfalls",
-        "lyric": "I seen a rainbow yesterday But too many storms have come and gone",
-        "answer" : "Leavin a trace of not on God given ray",
+        "lyric": "A lonely mother gazing out of her window staring at a son that she just can't touch",
+        "answer" : "If at any time he's in a jam shell be by his side but he doesn't realize he hurts her so much",
         "release_year": "1994",
         "genre": "Pop",
         "id": "6qspW4YKycviDFjHBOaqUY"
@@ -56,8 +56,8 @@
     {
         "artist": "Backstreet Boys",
         "title": "I Want It That Way",
-        "lyric": "You are my fire, The one desire",
-        "answer" : "Believe when I say I want it that way",
+        "lyric": "You are my fire the one desire believe when I say",
+        "answer" : "I want it that way But we are two worlds apart Cant reach to your heart",
         "release_year": "1999",
         "genre": "Pop",
         "id": "47BBI51FKFwOMlIiX6m8ya"
@@ -65,8 +65,8 @@
     {
         "artist": "Destinys Child",
         "title": "Say My Name",
-        "lyric": "Any other day I would call and you would say",
-        "answer" : "Baby hows your day But today, it aint the same",
+        "lyric": "Say my name say my name If no one is around you",
+        "answer" : "Say my name say my name you actin kinda shady",
         "release_year": "1999",
         "genre": "Pop",
         "id": "7H6ev70Weq6DdpZyyTmUXk"
@@ -74,8 +74,8 @@
     {
         "artist": "New Radicals",
         "title": "You Get What You Give",
-        "lyric": "You've got the music in you, Don't let go",
-        "answer" : "Youve got the music in you One dance left",
+        "lyric": "Wake up, kids we got the dreamers disease age fourteen, they got you down on your knees",
+        "answer" : "So polite were busy still saying please Frienemies who when youre down aint your friend",
         "release_year": "1998",
         "genre": "Pop",
         "id": "1Cwsd5xI8CajJz795oy4XF"
@@ -92,8 +92,8 @@
     {
         "artist": "Evanescence",
         "title": "Bring Me to Life",
-        "lyric": "Bring me to life I've been living a lie",
-        "answer" : "Theres nothing inside Bring me to life Frozen inside without your touch",
+        "lyric": "How can you see into my eyes like open doors? Leading you down into my core",
+        "answer" : "Where Ive become so numb without a soul",
         "release_year": "2003",
         "genre": "Pop",
         "id": "0COqiPhxzoWICwFCS4eZcp"
@@ -101,8 +101,8 @@
     {
         "artist": "Fountains of Wayne",
         "title": "Stacy's Mom",
-        "lyric": "Stacy's mom has got it goin' on, She's all I want",
-        "answer" : "And I've waited for so long Stacy can't you see",
+        "lyric": "Stacy, can I come over after school? We can hang around by the pool",
+        "answer" : "Did your mom get back from her business trip",
         "release_year": "2003",
         "genre": "Pop",
         "id": "27L8sESb3KR79asDUBu8nW"
@@ -110,8 +110,8 @@
     {
         "artist": "Kelly Clarkson",
         "title": "Breakaway",
-        "lyric": "Trying hard to reach out, But when I tried to speak out",
-        "answer" : "Felt like no one could hear me Wanted to belong here",
+        "lyric": "Grew up in a small town and when the rain would fall down",
+        "answer" : "Id just stare out my window dreaming of what could be",
         "release_year": "2004",
         "genre": "Pop",
         "id": "61Qhe2mHSLhUE04QeK4lkD"
@@ -128,8 +128,8 @@
     {
         "artist": "Rihanna",
         "title": "Pon de Replay",
-        "lyric": "It goes one by one, even two by two Everybody on the floor, let me show you how we do",
-        "answer" : "Lets go dip it low then you bring it up slow",
+        "lyric": "Come, Mr. DJ, song pon de replay come, Mr. DJ, won't you turn the music up?",
+        "answer" : "All the gyal pon the dancefloor wantin some more what",
         "release_year": "2005",
         "genre": "Pop",
         "id": "4TsmezEQVSZNNPv5RJ65Ov"
@@ -137,8 +137,8 @@
     {
         "artist": "The Pussycat Dolls",
         "title": "Don't Cha",
-        "lyric": "Don't cha wish your girlfriend was hot like me?",
-        "answer" : "Dont cha wish your girlfriend was a freak like me",
+        "lyric": "I know you like me (I know you like me) I know you do (I know you do)",
+        "answer" : "Thats why whenever I come around Shes all over you",
         "release_year": "2005",
         "genre": "Pop",
         "id": "1gZ7i4qxXkHZb1r6eioaAP"
@@ -164,8 +164,8 @@
     {
         "artist": "Demi Lovato",
         "title": "Heart Attack",
-        "lyric": "You make me glow But I cover up, won't let it show",
-        "answer" : "So Im putting my defenses up Cause I dont wanna fall in love",
+        "lyric": "Never put my love out on the line Never said yes to the right guy",
+        "answer" : "Never had trouble getting what I want but when it comes to you I'm never good enough",
         "release_year": "2013",
         "genre": "Pop",
         "id": "4v0hWD4N6qefyFrmSGLjTV"
@@ -173,8 +173,8 @@
     {
         "artist": "Sia",
         "title": "Chandelier",
-        "lyric": "From the chandelier I'm gonna live like tomorrow doesn't exist",
-        "answer" : "Like it doesnt exist Im gonna fly like a bird through the night",
+        "lyric": "Party girls don't get hurt can't feel anything, when will I learn?",
+        "answer" : "I push it down I push it down Im the one for a good time call",
         "release_year": "2014",
         "genre": "Pop",
         "id": "4VrWlk8IQxevMvERoX08iC"
@@ -191,8 +191,8 @@
     {
         "artist": "Dua Lipa",
         "title": "New Rules",
-        "lyric": "One: Don't pick up the phone You know he's only callin' 'cause he's drunk and alone",
-        "answer" : "Two Dont let him in youll have to kick him out again",
+        "lyric": "My love He makes me feel like nobody else, nobody else",
+        "answer" : "But my love He doesnt love me so I tell myself I tell myself",
         "release_year": "2017",
         "genre": "Pop",
         "id": "2ekn2ttSfGqwhhate0LSR0"
@@ -200,8 +200,8 @@
     {
         "artist": "Dua Lipa",
         "title": "One Kiss",
-        "lyric": "One kiss is all it takes Fallin' in love with me",
-        "answer" : "Possibilities I look like all you need",
+        "lyric": "One kiss is all it takes Fallin' in love with me Possibilities",
+        "answer" : "I look like all you need Let me take the night I love real easy",
         "release_year": "2017",
         "genre": "Pop",
         "id": "2ekn2ttSfGqwhhate0LSR0"
@@ -209,8 +209,8 @@
     {
         "artist": "Beyoncee",
         "title": "Love on Top",
-        "lyric": "Baby, it's you, You're the one I love, You're the one I need",
-        "answer" : "Youre the only one I see Come on baby it's you",
+        "lyric": "Honey honey I can see the stars all the way from here can't you see the glow on the window pane",
+        "answer" : "I can feel the sun whenever you're near every time you touch me I just melt away",
         "release_year": "2011",
         "genre": "Pop",
         "id": "1z6WtY7X4HQJvzxC4UgkSf"
@@ -218,8 +218,8 @@
     {
         "artist": "Billie Eilish",
         "title": "Bad Guy",
-        "lyric": "White shirt now red, my bloody nose Sleepin', you're on your tippy toes",
-        "answer" : "Creepin around like no one knows Think youre so criminal",
+        "lyric": "White shirt now red, my bloody nose sleepin', you're on your tippy toes",
+        "answer" : "Creepin' around like no one knows think you're so criminal",
         "release_year": "2019",
         "genre": "Pop",
         "id": "2Fxmhks0bxGSBdJ92vM42m"
@@ -227,7 +227,7 @@
     {
         "artist": "Cher",
         "title": "Believe",
-        "lyric": "No matter how hard I try You keep pushing me aside ",
+        "lyric": "No matter how hard I try You keep pushing me aside",
         "answer" : "And I cant break through Theres no talking to you",
         "release_year": "1998",
         "genre": "Pop",
@@ -254,8 +254,8 @@
     {
         "artist": "Olivia Rodrigo",
         "title": "Good 4 U",
-        "lyric": "Well, good for you, you look happy and healthy Not me, if you ever cared to ask",
-        "answer" : "Good for you youre doing great out there without me baby God I wish that I could do that",
+        "lyric": "Well, good for you I guess you moved on really easily",
+        "answer" : "You found a new girl and it only took a couple weeks",
         "release_year": "2021",
         "genre": "Pop",
         "id": "4ZtFanR9U6ndgddUvNcjcG"
@@ -263,8 +263,8 @@
     {
         "artist": "Lizzo",
         "title": "About Damn Time",
-        "lyric": "In a minute I'ma need a sentimental, Man or woman to pump me up",
-        "answer" : "Feeling fussy walkin in my Balenci-ussys Tryna bring out the fabulous",
+        "lyric": "It's bad bitch o'clock, yeah, it's thick-thirty I've been through a lot but I'm still flirty",
+        "answer" : "Is everybody back up in the buildin Its been a minute tell me how youre healin",
         "release_year": "2022",
         "genre": "Pop",
         "id": "1PckUlxKqWQs3RlWXVBLw3"
@@ -272,8 +272,8 @@
     {
         "artist": "Sam Smith",
         "title": "Unholy",
-        "lyric": "A lucky, lucky girl, She got married to a boy like you",
-        "answer" : "Shed kick you out if she ever ever knew Bout all the you tell me that you do",
+        "lyric": "A lucky lucky girl  She got married to a boy like you shed kick you out if she ever ever knew",
+        "answer" : "Bout all the you tell me that you do Dirty dirty boy",
         "release_year": "2022",
         "genre": "Pop",
         "id": "3nqQXoyQOWXiESFLlDF1hG"
@@ -281,8 +281,8 @@
     {
         "artist": "Meghan Trainor",
         "title": "Made You Look",
-        "lyric": "I could have my Gucci on I could wear my Louis Vuitton",
-        "answer" : "But even with nothin on Bet I made you look",
+        "lyric": "I could have my Gucci on I could wear my Louis Vuittonn",
+        "answer" : "But even with nothin on Bet I made you look ",
         "release_year": "2022",
         "genre": "Pop",
         "id": "0QHEIqNKsMoOY5urbzN48u"
@@ -299,8 +299,8 @@
     {
         "artist": "Lewis Capaldi",
         "title": "Someone You Loved",
-        "lyric": "Now the day bleeds into nightfall and you're not here",
-        "answer" : "To get me through it all I let my guard down",
+        "lyric": "I'm going under and this time I fear there's no one to save me",
+        "answer" : "This all or nothing really got a way of driving me crazy",
         "release_year": "2019",
         "genre": "Pop",
         "id": "7qEHsqek33rTcFNT9PFqLf"
@@ -317,8 +317,8 @@
     {
         "artist": "Guns N' Roses",
         "title": "Sweet Child O'Mine",
-        "lyric": "She's got eyes of the bluest skies as if they thought of rain",
-        "answer" : "Id hate to look into those eyes and see an ounce of pain",
+        "lyric": "She's got a smile that it seems to me reminds me of childhood memories",
+        "answer" : "Where everything was as fresh as the bright blue sky",
         "release_year": "1987",
         "genre": "Rock",
         "id": "7o2CTH4ctstm8TNelqjb51"
@@ -326,8 +326,8 @@
     {
         "artist": "AC/DC",
         "title": "Back In Black",
-        "lyric": "Back in the back of a Cadillac",
-        "answer" : "Number one with a bullet Im a power pack",
+        "lyric": "Back in black I hit the sack I've been too long, I'm glad to be back",
+        "answer" : "Yes Im let loose from the noose thats kept me hanging about",
         "release_year": "1980",
         "genre": "Rock",
         "id": "08mG3Y1vljYA6bvDt4Wqkj"
@@ -335,8 +335,8 @@
     {
         "artist": "Black Sabbath",
         "title": "Paranoid",
-        "lyric": "I need someone to show me the things in life that I can't find",
-        "answer" : "I cant see the things that make true happiness I must be blind",
+        "lyric": "Finished with my woman 'cause she couldn't help me with my mind",
+        "answer" : "People think I'm insane because I am frowning all the time",
         "release_year": "1970",
         "genre": "Rock",
         "id": "1Y373MqadDRtclJNdnUXVc"
@@ -344,8 +344,8 @@
     {
         "artist": "Motorhead",
         "title": "Ace of Spades",
-        "lyric": "",
-        "answer" : "",
+        "lyric": "If you like to gamble I tell you, I'm your man You win some, lose some",
+        "answer" : "Its all the same to me the pleasure is to play",
         "release_year": "1980",
         "genre": "Rock",
         "id": "6EPRKhUOdiFSQwGBRBbvsZ"
@@ -353,8 +353,8 @@
     {
         "artist": "Meat Loaf",
         "title": "Bat Out of Hell",
-        "lyric": "You know I'm born to lose and gambling's for fools",
-        "answer" : "But thats the way I like it baby I dont want to live forever",
+        "lyric": "The sirens are screaming, and the fires are howling way down in the valley tonight",
+        "answer" : "There's a man in the shadows with a gun in his eye and a blade shining oh so bright",
         "release_year": "1977",
         "genre": "Rock",
         "id": "3mCeeoBvTTpg8Xy2Wuvirw"
@@ -362,8 +362,8 @@
     {
         "artist": "Nirvana",
         "title": "Smells Like Teen Spirit",
-        "lyric": "With the lights out, it's less dangerous here we are now, entertain us",
-        "answer" : "I feel stupid and contagious here we are now entertain us",
+        "lyric": "Load up on guns, bring your friends It's fun to lose and to pretend",
+        "answer" : "Shes over bored and self assured Oh no I know a dirty word",
         "release_year": "1991",
         "genre": "Rock",
         "id": "5ghIJDpPoe3CfHMGu71E6T"
@@ -389,8 +389,8 @@
     {
         "artist": "Bon Jovi",
         "title": "Livin' on a Prayer",
-        "lyric": "She says, we've got to hold on to what we've got It doesn't make a difference if we make it or not",
-        "answer" : "Weve got each other and thats a lot for love Well give it a shot",
+        "lyric": "Tommy used to work on the docks, union's been on strike Hes down on his luck, it's tough, so tough",
+        "answer" : "Gina works the diner all day working for her man she brings home her pay for love for love",
         "release_year": "1986",
         "genre": "Rock",
         "id": "37ZJ0p5Jm13JPevGcx4SkF"
@@ -407,8 +407,8 @@
     {
         "artist": "Alice Cooper",
         "title": "School's Out",
-        "lyric": "We can't salute ya can't find a flag If that don't suit ya",
-        "answer" : "Thats a drag schools out for summer schools out forever",
+        "lyric": "Well we got no choice All the girls and boys",
+        "answer" : "Making all that noise Cause they found new toys",
         "release_year": "1972",
         "genre": "Rock",
         "id": "5Z8EDau8uNcP1E8JvmfkZe"
@@ -434,8 +434,8 @@
     {
         "artist": "The Doors",
         "title": "Light My Fire",
-        "lyric": "The time to hesitate is through no time to wallow in the mire",
-        "answer" : "Try now we can only lose and our love become a funeral pyre",
+        "lyric": "You know that it would be untrue You know that I would be a liar",
+        "answer" : "If I was to say to you Girl we couldnt get much higher",
         "release_year": "1967",
         "genre": "Rock",
         "id": "5uvosCdMlFdTXhoazkTI5R"
@@ -443,8 +443,8 @@
     {
         "artist": "Stereophonics",
         "title": "Dakota",
-        "lyric": "Wake up call coffee and juice rememberin' you what happened to you?",
-        "answer" : "I wonder if we'll meet again talk about life since then talk about why did it end",
+        "lyric": "Thinkin' 'bout thinkin' of you Summertime think it was June",
+        "answer" : "Yeah I think it was June Layin back head on the grass",
         "release_year": "2005",
         "genre": "Rock",
         "id": "3KbohvHfv4uHONJJy2p8NX"
@@ -461,8 +461,8 @@
     {
         "artist": "The Rolling Stones",
         "title": "Miss You",
-        "lyric": "Well, I've been haunted in my sleep you've been starrin' in my dreams lord, I miss you, child",
-        "answer" : "Ive been waitin' in the hall been waitin on your call your phone rings",
+        "lyric": "I've been holdin' out so long I've been sleepin' all alone Lord, I miss you",
+        "answer" : "Ive been hanging on the phone Ive been sleeping all alone",
         "release_year": "1978",
         "genre": "Rock",
         "id": "4TXvJz4TmRI9Bzy4VWNUjl"
@@ -479,8 +479,8 @@
     {
         "artist": "The Cure",
         "title": "Just Like Heaven",
-        "lyric": "Spinning on that dizzy edge Kissed her face and kissed her head",
-        "answer" : "Dreamed of all the different ways I had to make her glow",
+        "lyric": "'Show me, show me, show me how you do that trick The one that makes me scream' she said",
+        "answer" : "The one that makes me laugh she said And threw her arms around my neck",
         "release_year": "1987",
         "genre": "Rock",
         "id": "76GlO5H5RT6g7y0gev86Nk"
@@ -488,8 +488,8 @@
     {
         "artist": "Papa Roach",
         "title": "Last Resort",
-        "lyric": "I never realized I was spread too thin 'Til it was too late, and I was empty within",
-        "answer" : "Hungry feeding on chaos and living in sin downward spiral, where do I begin",
+        "lyric": "Cut my life into pieces this is my last resort suffocation, no breathing",
+        "answer" : "Dont give a fuck if I cut my arm bleeding This is my last resort",
         "release_year": "2000",
         "genre": "Rock",
         "id": "5W8YXBz9MTIDyrpYaCg2Ky"
@@ -506,8 +506,8 @@
     {
         "artist": "Linkin Park",
         "title": "In the End",
-        "lyric": "It's so unreal didn't look out below watch the time go right out the window",
-        "answer" : "Trying to hold on didn't even know I wasted it all just to watch you go",
+        "lyric": "It starts with one thing I dont know why It doesnt even matter how hard you try",
+        "answer" : "Keep that in mind I designed this rhyme",
         "release_year": "2000",
         "genre": "Rock",
         "id": "60a0Rd6pjrkxjPbaKzXjfq"
@@ -515,8 +515,8 @@
     {
         "artist": "Foo Fighters",
         "title": "Best of You",
-        "lyric": "I was too weak to give in too strong to lose my heart is under arrest again",
-        "answer" : "But I break loose My head is giving me life or death But I cant choose",
+        "lyric": "Ive got another confession to make Im your fool",
+        "answer" : "Everyones got their chains to break holding you",
         "release_year": "2005",
         "genre": "Rock",
         "id": "5FZxsHWIvUsmSK1IAvm2pp"
@@ -524,8 +524,8 @@
     {
         "artist": "Fall Out Boy",
         "title": "Sugar, Were Goin Down",
-        "lyric": "We're going down, down in an earlier round and sugar, we're going down swinging",
-        "answer" : "Ill be your number one with a bullet a loaded god complex cock it and pull it",
+        "lyric": "Am I more than you bargained for yet? I've been dying to tell you",
+        "answer" : "Anything you wanna hear Cause that's just who I am this week",
         "release_year": "2005",
         "genre": "Rock",
         "id": "2TfSHkHiFO4gRztVIkggkE"
@@ -533,8 +533,8 @@
     {
         "artist": "Song by Weezer",
         "title": "Beverly Hills",
-        "lyric": "Look at all those movie stars they're all so beautiful and clean",
-        "answer" : "When the housemaids scrub the floors they get the spaces in between",
+        "lyric": "Where I come from isn't all that great My automobile is a piece of crap",
+        "answer" : "My fashion sense is a little wack and my friends are just as screwy as me",
         "release_year": "2005",
         "genre": "Rock",
         "id": "1yKu2MhpwzDXXH2tzG6xoa"
@@ -560,8 +560,8 @@
     {
         "artist": "Finger Eleven",
         "title": "Paralyzer",
-        "lyric": "Well, I'm not paralyzed, but I seem to be struck by you I wanna make you move because you're standin' still",
-        "answer" : "If your body matches what your eyes can do Youll probably move right through me on my way to you",
+        "lyric": "I hold on so nervously to me and my drink I wish it was coolin' me",
+        "answer" : "But so far has not been good Its been shitty and I feel awkward as I should",
         "release_year": "2007",
         "genre": "Rock",
         "id": "28IEbk5a7twNTbUEvWslUb"
@@ -569,8 +569,8 @@
     {
         "artist": "Linkin Park",
         "title": "Burn It Down",
-        "lyric": "The colors conflicted as the flames climbed into the clouds",
-        "answer" : "I wanted to fix this but couldnt stop from tearing it down",
+        "lyric": "The cycle repeated as explosions broke in the sky all that I needed",
+        "answer" : "Was the one thing I couldnt find and you were there at the turn",
         "release_year": "2012",
         "genre": "Rock",
         "id": "7oVEtyuv9NBmnytsCIsY5I"
@@ -578,8 +578,8 @@
     {
         "artist": "Simple Plan",
         "title": "Vacation",
-        "lyric": "Can't you just go somewhere on vacation? I could book your flight",
-        "answer" : "And pack your bags if you want a one way ticket out of my life",
+        "lyric": "I know a girl who's obsessed with a guy she talks for hours and still tomorrowt",
+        "answer" : "Shell call again and when he thinks that this could be the end she calls again",
         "release_year": "2002",
         "genre": "Rock",
         "id": "3fYytr3RxNUXyFesUVPHZA"
@@ -587,8 +587,8 @@
     {
         "artist": "Nickelback",
         "title": "Rockstar",
-        "lyric": "I want a brand new house on an episode of Cribs and a bathroom I can play baseball in",
-        "answer" : "And a king size tub big enough for ten plus me",
+        "lyric": "I'm through with standing in line to clubs I'll never get in It's like the bottom of the ninth, and I'm never gonna win",
+        "answer" : "This life hasnt turned out quite the way I want it to be",
         "release_year": "2005",
         "genre": "Rock",
         "id": "3RlsVPIIs5KFhLFhxZ4iDF"
@@ -605,8 +605,8 @@
     {
         "artist": "Shania Twain",
         "title": "Youre Still the One",
-        "lyric": "You're still the one I run to the one that I belong to",
-        "answer" : "Youre still the one I want for life Youre still the one that I love",
+        "lyric": "When I first saw you I saw love and the first time you touched me I felt love",
+        "answer" : "And after all this time Youre still the one I love",
         "release_year": "1997",
         "genre": "Country",
         "id": "3I4nZ14GRL7eXwFDjCEEVr"
@@ -623,8 +623,8 @@
     {
         "artist": "Carrie Underwood",
         "title": "Before He Cheats",
-        "lyric": "I dug my key into the side of his pretty little souped-up four-wheel drive carved my name into his leather seats",
-        "answer" : "I took a Louisville slugger to both headlights I slashed a hole in all four tires",
+        "lyric": "Right now, he's probably slow dancin' With a bleached-blond tramp and she's probably gettin' frisky",
+        "answer" : "Right now hes probably buyin her some fruity little drink",
         "release_year": "2005",
         "genre": "Country",
         "id": "0ZUo4YjG4saFnEJhdWp9Bt"
@@ -632,8 +632,8 @@
     {
         "artist": "John Denver",
         "title": "Take Me Home Country Roads",
-        "lyric": "Country roads, take me home To the place I belong",
-        "answer" : "West Virginia mountain mama take me home country roads",
+        "lyric": "Almost Heaven, West Virginia Blue Ridge Mountains, Shenandoah River",
+        "answer" : "Life is old there older than the trees Younger than the mountains growing like a breez",
         "release_year": "1971",
         "genre": "Country",
         "id": "1YYhDizHx7PnDhAhko6cDS"
@@ -641,8 +641,8 @@
     {
         "artist": "Chris Stapleton",
         "title": "Tennessee Whiskey",
-        "lyric": "You're as smooth as Tennessee whiskey you're as sweet as strawberry wine",
-        "answer" : "Youre as warm as a glass of brandy and honey I stay stoned on your love all the time",
+        "lyric": "Used to spend my nights out in a barroom Liquor was the only love I've known",
+        "answer" : "But you rescued me from reachin for the bottom and brought me back from being too far gone",
         "release_year": "2015",
         "genre": "Country",
         "id": "35BIbrSEyRIvoFDXJZplZI"
@@ -650,8 +650,8 @@
     {
         "artist": "Shania Twain",
         "title": "Man I Feel Like a Woman",
-        "lyric": "The girls need a break, tonight we're gonna take the chance to get out on the town",
-        "answer" : "We dont need romance we only wanna dance were gonna let our hair hang down",
+        "lyric": "I'm goin' out tonight, I'm feelin' alright gonna let it all hang out",
+        "answer" : "Wanna make some noise really raise my voice Yeah I wanna scream and shout uh",
         "release_year": "1999",
         "genre": "Country",
         "id": "6sxptembJVty4sNtcPMAVz"
@@ -659,8 +659,8 @@
     {
         "artist": "Dolly Parton and Kenny Rogers",
         "title": "Islands in the Stream",
-        "lyric": "Islands in the stream that is what we are no one in between",
-        "answer" : "How can we be wrong Sail away with me",
+        "lyric": "Baby, when I met you there was peace unknown I set out to get you with a fine tooth comb",
+        "answer" : "I was soft inside there was something going on",
         "release_year": "1983",
         "genre": "Country",
         "id": "6dnco8haegnJYtylV26cBq"
@@ -677,8 +677,8 @@
     {
         "artist": "Tim McGraw",
         "title": "Live Like You Were Dying",
-        "lyric": "I was finally the husband That most of the time I wasn't",
-        "answer" : "And I became a friend a friend would like to have",
+        "lyric": "He said 'I was in my early forties With a lot of life before me'",
+        "answer" : "When a moment came that stopped me on a dime I spent most of the next days",
         "release_year": "2004",
         "genre": "Country",
         "id": "5uaTGZyDMK1iZ9eW1qeBEX"
@@ -686,8 +686,8 @@
     {
         "artist": "Lee Ann Womack",
         "title": "I Hope You Dance",
-        "lyric": "I hope you never fear those mountains in the distance, Never settle for the path of least resistance",
-        "answer" : "Livin might mean takin chances but theyre worth takin Lovin might be a mistake but its worth makin",
+        "lyric": "I hope you never lose your sense of wonder, You get your fill to eat but always keep that hunger",
+        "answer" : "May you never take one single breath for granted God forbid love ever leave you empty handed",
         "release_year": "2000",
         "genre": "Country",
         "id": "65B1tEOv5W294uCKbmEcFV"
@@ -713,8 +713,8 @@
     {
         "artist": "Charlie Daniels Band",
         "title": "Devil Went Down to Georgia",
-        "lyric": "When he came across this young man sawin' on a fiddle and playin' it hot",
-        "answer" : "And the devil jumped up on a hickory stump",
+        "lyric": "The devil went down to Georgia, he was lookin' for a soul to steal",
+        "answer" : "He was in a bind cause he was way behind",
         "release_year": "1979",
         "genre": "Country",
         "id": "383Xl5QTigwj3QiA3Qc6S7"
@@ -749,8 +749,8 @@
     {
         "artist": "Gabby Barrett",
         "title": "I Hope",
-        "lyric": "I hope you both feel the sparks by the end of the drive I hope you know she's the one by the end of the night",
-        "answer" : "I hope you never ever felt more free tell your friends that youre so happy",
+        "lyric": "I, I hope she makes you smile the way it made me smile",
+        "answer" : "On the other end of a phone In the middle of a highway driving alone",
         "release_year": "2020",
         "genre": "Country",
         "id": "23T0OX7QOiIUFShSzbJ5Uo"
@@ -767,8 +767,8 @@
     {
         "artist": "Faith Hill",
         "title": "This Kiss",
-        "lyric": "It's the way you love me It's a feeling like this It's centrifugal motion",
-        "answer" : "Its perpetual bliss  Its that pivotal moment  It's ah impossible",
+        "lyric": "I don't want another heartbreak I don't need another turn to cry, no",
+        "answer" : "I dont want to learn the hard way Baby hello oh no goodbye",
         "release_year": "1998",
         "genre": "Country",
         "id": "0TxXEbxn52XsuAhxb6VFZw"
@@ -812,8 +812,8 @@
     {
         "artist": "Dan + Shay",
         "title": "Tequila",
-        "lyric": "When I taste tequila, baby I still see ya Cuttin' up the floor in a sorority t-shirt",
-        "answer" : "The same one you wore when we were Sky high in Colorado your lips pressed against the bottle",
+        "lyric": "I can still shut down a party I can hang with anybody I can drink whiskey and red wine",
+        "answer" : "Champagne all night Little Scotch on the rocks and Im fine Im fine",
         "release_year": "2018",
         "genre": "Country",
         "id": "42fw0rxRO2xbesF6mJfd4Y"
@@ -839,8 +839,8 @@
     {
         "artist": "Tim McGraw",
         "title": "I Like It, I Love It",
-        "lyric": "But I like it, I love it, I want some more of it I try so hard, I can't rise above it",
-        "answer" : "Don't know what it is bout that little girls lovin",
+        "lyric": "Spent 48 dollars last night at the county fair I throwed out my shoulder, but I won her that teddy bear",
+        "answer" : "Shes got me sayin Sugar Pie Honey Darlin and Dear I aint seen the Braves play a game all year",
         "release_year": "1995",
         "genre": "Country",
         "id": "3IvcWWehbBcBR4YZxlGM9R"
@@ -857,8 +857,8 @@
     {
         "artist": "Eric Ethridge",
         "title": "If You Met Me First",
-        "lyric": "I'll bet that baby you and I would have worked we never get the chance to try",
-        "answer" : "And what makes it worse Is you would have loved me",
+        "lyric": "Why do you look at me like that? Your eyes saying things that they can't take back",
+        "answer" : "Feels good feels right it dont help Every night when the quiet gets loud",
         "release_year": "2018",
         "genre": "Country",
         "id": "5BJSIhaHPpnTkAahlmOQ1h"
@@ -866,8 +866,8 @@
     {
         "artist": "Florida Georgia Line",
         "title": "This Is How We Roll",
-        "lyric": "We rollin' into town with nothin' else to do We take another lap around",
-        "answer" : "Yeah holla at your boy if you need a ride",
+        "lyric": "The mixtapes got a little Hank, little Drake A little somethin' bumpin', thumb thumpin' on the wheel right",
+        "answer" : "The mix in our drinks a little stronger than you think So get a grip take a sip of that feel right",
         "release_year": "2014",
         "genre": "Country",
         "id": "2TR7A4ulH9R1PNwMyd8o8U"
@@ -875,8 +875,8 @@
     {
         "artist": "Rascal Flatts",
         "title": "What Hurts The Most",
-        "lyric": "What hurts the most was being so close and having so much to say",
-        "answer" : "And watching you walk away and never knowing",
+        "lyric": "I can take the rain on the roof of this empty house That don't bother me",
+        "answer" : "I can take a few tears now and then and just let em out",
         "release_year": "2006",
         "genre": "Country",
         "id": "4bVuIlGQBMWS7vIhcx8Ae4"

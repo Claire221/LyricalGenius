@@ -71,7 +71,7 @@
                 </div>
             </div>
             <div class="song-details flex">
-                <p class="song-info"><span id="artist"></span>: <span id="song"></span></p>
+                <p id="song-title" class="song-info"><span id="artist"></span>: <span id="song"></span></p>
                 <p id="time-p">Time: <span id="timer">30</span></p>
             </div>
             <div class="game-arena">
@@ -90,17 +90,12 @@
                     <input type="submit" value="Answer" class="" id="answer-btn">
                 </form>
             </div>
-            <div class="iframe-container hidden" data-element="game">
-                <iframe id="spotify-player" width="300" height="300"
-                  allow="encrypted-media">
-                </iframe>
-            </div>
         </div>
 
         <div id="game-over" class="game-container">
             <h1 id="game-state">Game Over</h1>
             <p class="game-score">Your Score Was <span id="score">0</span> Points</p>
-            <input type="submit" value="Play Again?" class="" id="answer-btn">
+            <input type="submit" value="Play Again?" class="play-again-btn" id="answer-btn">
         </div>
     </div>
 

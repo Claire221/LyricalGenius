@@ -285,38 +285,32 @@ body {
 
 
 /* Media Queries */
-@media only screen and (max-width: 1100px) {
-    .game-instructions {
-        font-size: 1.75rem;
-        margin-bottom: 5%;
-    }
-
-    .difficulty-btn {
-        width: 90%;
-    }
-
-    .game-life {
-        width: 20px;
-    }
-
-    #lyric {
-        width: 95%;
-        font-size: 1.75rem;
-    }
-
-    #answer-btn {
-        padding: 1.7% 2%;
+@media only screen and (max-width: 500px) {
+    .game {
+        width: 100vw;
     }
 
     .game-container {
-        text-align: center;
+        width: 95%;
     }
 
-    .play-again-btn {
-        margin-bottom: 1%;
+    .instructions-title {
+        font-size: 2.25rem !important;
     }
+
+    .game-genre {
+        font-size: 1.5rem !important;
+    }
+
+    .game-life {
+        width: 15px !important;
+    }
+
+    #answer-btn {
+        padding: 2.5% 2% !important;
+    }
+
 }
-
 
 @media only screen and (max-width: 900px) {
     .buttons-container {
@@ -349,4 +343,36 @@ body {
         margin-bottom: 1%;
     }
 
+}
+
+@media only screen and (max-width: 1100px) {
+    .game-instructions {
+        font-size: 1.75rem;
+        margin-bottom: 5%;
+    }
+
+    .difficulty-btn {
+        width: 90%;
+    }
+
+    .game-life {
+        width: 20px;
+    }
+
+    #lyric {
+        width: 95%;
+        font-size: 1.75rem;
+    }
+
+    #answer-btn {
+        padding: 1.7% 2%;
+    }
+
+    .game-container {
+        text-align: center;
+    }
+
+    .play-again-btn {
+        margin-bottom: 1%;
+    }
 }
